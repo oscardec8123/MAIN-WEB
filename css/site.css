@@ -1,0 +1,70 @@
+
+.head-wrapper{
+    background-color: black;
+    position: fixed;
+    top:0px;
+    left: 0px;
+    width: 100%;
+    height:100px;
+    display: flex;
+}
+
+.zip{
+    margin-left: 300px;
+    height: 70px;
+    margin-top: 1rem;
+}
+
+@keyframes change{
+    0%{
+        background-color: black;
+    }
+
+    20%{
+        border-top: 3px solid red;
+    }
+
+    40%{
+        border-bottom: 3px solid green;
+    }
+
+    60%{
+        border-left: 3px solid yellow;
+    }
+
+    70%{
+        border-right: 3px solid blue;
+    }
+
+}
+
+.zip{
+    animation: change 2s infinite;
+}
+
+.Head-Contain{
+    margin-left:800px;
+    top:25px;
+    position: absolute;
+}
+
+span{
+    background-color: red;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
