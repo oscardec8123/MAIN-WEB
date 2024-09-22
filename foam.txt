@@ -1,0 +1,11 @@
+This was Captured using User Input capture.
+
+drwxr-xr-x 1 oscar 197609    0 Sep 16 15:22 Images/
+-rw-r--r-- 1 oscar 197609   33 Sep 16 14:56 README.md
+-rw-r--r-- 1 oscar 197609  497 Sep 18 15:38 Warning.txt
+-rw-r--r-- 1 oscar 197609    5 Sep 17 07:39 bit.txt
+-rw-r--r-- 1 oscar 197609    4 Sep 17 07:33 countT.txt
+drwxr-xr-x 1 oscar 197609    0 Sep 16 15:04 css/
+-rw-r--r-- 1 oscar 197609    0 Sep 22 15:42 foam.txt
+-rw-r--r-- 1 oscar 197609 1876 Sep 16 22:57 site.html
+-rw-r--r-- 1 oscar 197609  105 Sep 17 07:27 webzip.txt
